@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/hkg93/nationtv/main/public/logo-10.png" width="300" alt="nationtv_logo">
+<p align="center"><img src="https://raw.githubusercontent.com/hkg93/nationtv/main/public/logo-10.png" width="300" alt="nationtv_logo"></p>
 <p align="center">
   A powerful, content-driven, Laravel 12-based web platform to showcase latest news, updates, and programs. Built with modern stack including Vite, TailwindCSS, and Livewire.
 </p>
